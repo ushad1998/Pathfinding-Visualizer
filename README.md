@@ -78,6 +78,7 @@ This project is also deployed on GitHub Pages. You can view the live demo [here]
 ![image](https://github.com/ushad1998/Pathfinding-Visualizer/blob/34136263a47fe0396588aedc7a402a569b31adab/pd%20screenshot/pf3.jpg)
 ![image](https://github.com/ushad1998/Pathfinding-Visualizer/blob/29359c6c4bf54e341680d1d106a379c6a087f2bd/pd%20screenshot/pf4.jpg)
 ![image](https://github.com/ushad1998/Pathfinding-Visualizer/blob/33bdc445f0d3894c1b6515741e3d941061cfcda4/pd%20screenshot/pf5.jpg)
+![image](https://github.com/ushad1998/Pathfinding-Visualizer/blob/29bf36bbd87685059c8d6099fa7c8e0b1a7dbe46/pd%20screenshot/pf6.jpg)
 
 ### Visualization Example
 
