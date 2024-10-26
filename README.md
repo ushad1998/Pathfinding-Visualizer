@@ -73,7 +73,7 @@ This project is also deployed on GitHub Pages. You can view the live demo [here]
 
 ### Home Screen
 
-![Home Screen](https://your-username.github.io/pathfinding-visualizer/screenshots/home.png)
+![Home Screen](https://github.com/ushad1998/Pathfinding-Visualizer/blob/a3d56ed48e6e4ce35260912059edec6e496dd76f/pd%20screenshot/pf1.jpg)
 
 ### Visualization Example
 
