@@ -64,11 +64,7 @@ To run the Pathfinding Visualizer locally, follow these steps:
    ```
 5. **Open your browser**:
    - Visit `http://localhost:3000` to see the application in action.
-
-## 🌐 Deployment
-
-This project is also deployed on GitHub Pages. You can view the live demo [here](https://ushad1998.github.io/pathfinding-visualizer).
-
+   - 
 ## 📷 Screenshots
 
 ### Home Screen
