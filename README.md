@@ -67,7 +67,7 @@ To run the Pathfinding Visualizer locally, follow these steps:
 
 ## 🌐 Deployment
 
-This project is also deployed on GitHub Pages. You can view the live demo [here](https://your-username.github.io/pathfinding-visualizer).
+This project is also deployed on GitHub Pages. You can view the live demo [here](https://ushad1998.github.io/pathfinding-visualizer).
 
 ## 📷 Screenshots
 
@@ -111,15 +111,3 @@ If you encounter issues while running the application, try the following:
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## 📬 Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- **Name**: Usha D
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-
----
-
-Feel free to modify this README file to include more details or screenshots as needed. Make sure to replace placeholders like `your-username` and `your-email@example.com` with your actual GitHub username and contact details.
